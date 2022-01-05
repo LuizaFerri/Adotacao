@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "adotacao",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "3949710_adotacao",
+    "password": "luiza1996",
+    "database": "3949710_adotacao",
+    "host": "3306",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "3949710_adotacao",
+    "password": "luiza1996",
+    "database": "3949710_adotacao",
+    "host": "3306",
+    "dialect": "mysql"
+  }
+}
