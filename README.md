@@ -1,2 +1,2 @@
 # Adotacao
-Aplicativo para adocções de cachorros 
+Aplicativo para adoções de cachorros 
